@@ -12,7 +12,7 @@ perler_beads -s SRC -d DST -sw SW -dw DW
   -s SRC      源图片路径
   -d DST      目标图片路径
   -sw SW      在源图片中，从SW*SW的像素块采样，作为拼豆图纸中的一颗豆
-  -dw DW      在目标图片中，将每颗豆显示为SW*SW的像素块
+  -dw DW      在目标图片中，将每颗豆显示为DW*DW的像素块
 ```
 
 ## 示例
